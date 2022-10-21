@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anjo.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Anjo Humano flamenguista0000" x="0" y="0" width="444" height="601" frameX="0" frameY="-9" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0001" x="0" y="0" width="444" height="601" frameX="0" frameY="-9" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0002" x="444" y="0" width="444" height="599" frameX="-2" frameY="-11" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0003" x="444" y="0" width="444" height="599" frameX="-2" frameY="-11" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0004" x="888" y="0" width="433" height="603" frameX="-5" frameY="-7" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0005" x="888" y="0" width="433" height="603" frameX="-5" frameY="-7" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0006" x="1321" y="0" width="428" height="608" frameX="-2" frameY="-2" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0007" x="1321" y="0" width="428" height="608" frameX="-2" frameY="-2" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0008" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0009" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0010" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0011" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0012" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo Humano flamenguista0013" x="1749" y="0" width="428" height="610" frameX="0" frameY="0" frameWidth="446" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo0000" x="2177" y="0" width="613" height="424" frameX="0" frameY="-22" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0001" x="2177" y="0" width="613" height="424" frameX="0" frameY="-22" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0002" x="2790" y="0" width="616" height="427" frameX="0" frameY="-19" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0003" x="2790" y="0" width="616" height="427" frameX="0" frameY="-19" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0004" x="3406" y="0" width="609" height="440" frameX="0" frameY="-6" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0005" x="3406" y="0" width="609" height="440" frameX="0" frameY="-6" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0006" x="0" y="610" width="595" height="443" frameX="-4" frameY="-3" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0007" x="0" y="610" width="595" height="443" frameX="-4" frameY="-3" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0008" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0009" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0010" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0011" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0012" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo0013" x="595" y="610" width="592" height="446" frameX="-5" frameY="0" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo transform0000" x="1187" y="610" width="418" height="610" frameX="-60" frameY="0" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0001" x="1605" y="610" width="385" height="610" frameX="-60" frameY="0" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0002" x="1990" y="610" width="369" height="580" frameX="-63" frameY="-25" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0003" x="2359" y="610" width="354" height="550" frameX="-65" frameY="-51" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0004" x="2713" y="610" width="339" height="520" frameX="-68" frameY="-77" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0005" x="3052" y="610" width="328" height="492" frameX="-66" frameY="-102" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0006" x="3380" y="610" width="336" height="463" frameX="-62" frameY="-128" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0007" x="3716" y="610" width="343" height="434" frameX="-59" frameY="-153" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0008" x="0" y="1220" width="351" height="407" frameX="-56" frameY="-178" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0009" x="351" y="1220" width="360" height="378" frameX="-52" frameY="-204" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0010" x="711" y="1220" width="370" height="373" frameX="-49" frameY="-207" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0011" x="1081" y="1220" width="394" height="376" frameX="-46" frameY="-202" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0012" x="1475" y="1220" width="422" height="379" frameX="-42" frameY="-197" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0013" x="1897" y="1220" width="448" height="390" frameX="-39" frameY="-185" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0014" x="2345" y="1220" width="475" height="403" frameX="-36" frameY="-171" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0015" x="2820" y="1220" width="503" height="418" frameX="-33" frameY="-156" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0016" x="3323" y="1220" width="534" height="446" frameX="-29" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0017" x="3323" y="1220" width="534" height="446" frameX="-29" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0018" x="3323" y="1220" width="534" height="446" frameX="-29" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0019" x="0" y="1666" width="613" height="424" frameX="0" frameY="-163" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0020" x="0" y="1666" width="613" height="424" frameX="0" frameY="-163" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0021" x="613" y="1666" width="616" height="427" frameX="0" frameY="-160" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0022" x="613" y="1666" width="616" height="427" frameX="0" frameY="-160" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0023" x="3406" y="0" width="609" height="440" frameX="0" frameY="-146" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo transform0024" x="3406" y="0" width="609" height="440" frameX="0" frameY="-146" frameWidth="616" frameHeight="446"/>
+	<SubTexture name="Anjo flamengo transform0025" x="1229" y="1666" width="595" height="442" frameX="-5" frameY="-144" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0026" x="1229" y="1666" width="595" height="442" frameX="-5" frameY="-144" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0027" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0028" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0029" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0030" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0031" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+	<SubTexture name="Anjo flamengo transform0032" x="1824" y="1666" width="591" height="446" frameX="-6" frameY="-140" frameWidth="616" frameHeight="610"/>
+</TextureAtlas>
