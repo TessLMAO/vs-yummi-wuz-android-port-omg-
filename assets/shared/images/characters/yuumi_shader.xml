@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yuumi shader.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Yuumi Down0000" x="0" y="0" width="489" height="512" frameX="-10" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0001" x="0" y="0" width="489" height="512" frameX="-10" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0002" x="489" y="0" width="494" height="512" frameX="-7" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0003" x="489" y="0" width="494" height="512" frameX="-7" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0004" x="983" y="0" width="501" height="511" frameX="-3" frameY="-3" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0005" x="983" y="0" width="501" height="511" frameX="-3" frameY="-3" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0006" x="1484" y="0" width="496" height="512" frameX="-6" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Down0007" x="1484" y="0" width="496" height="512" frameX="-6" frameY="-2" frameWidth="505" frameHeight="514"/>
+	<SubTexture name="Yuumi Idle0000" x="1980" y="0" width="481" height="523" frameX="-10" frameY="-5" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0001" x="1980" y="0" width="481" height="523" frameX="-10" frameY="-5" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0002" x="2461" y="0" width="483" height="522" frameX="-12" frameY="-6" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0003" x="2461" y="0" width="483" height="522" frameX="-12" frameY="-6" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0004" x="2944" y="0" width="481" height="524" frameX="-10" frameY="-4" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0005" x="2944" y="0" width="481" height="524" frameX="-10" frameY="-4" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0006" x="3425" y="0" width="474" height="526" frameX="-8" frameY="-2" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0007" x="3425" y="0" width="474" height="526" frameX="-8" frameY="-2" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0008" x="0" y="526" width="474" height="528" frameX="-1" frameY="0" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0009" x="0" y="526" width="474" height="528" frameX="-1" frameY="0" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0010" x="474" y="526" width="474" height="527" frameX="-2" frameY="-1" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0011" x="474" y="526" width="474" height="527" frameX="-2" frameY="-1" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0012" x="474" y="526" width="474" height="527" frameX="-2" frameY="-1" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0013" x="474" y="526" width="474" height="527" frameX="-2" frameY="-1" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Idle0014" x="474" y="526" width="474" height="527" frameX="-2" frameY="-1" frameWidth="495" frameHeight="528"/>
+	<SubTexture name="Yuumi Right0000" x="948" y="526" width="474" height="530" frameX="-1" frameY="0" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0001" x="948" y="526" width="474" height="530" frameX="-1" frameY="0" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0002" x="1422" y="526" width="476" height="529" frameX="-6" frameY="-1" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0003" x="1422" y="526" width="476" height="529" frameX="-6" frameY="-1" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0004" x="1898" y="526" width="490" height="526" frameX="-6" frameY="-4" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0005" x="1898" y="526" width="490" height="526" frameX="-6" frameY="-4" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0006" x="2388" y="526" width="486" height="527" frameX="-6" frameY="-3" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Right0007" x="2388" y="526" width="486" height="527" frameX="-6" frameY="-3" frameWidth="496" frameHeight="530"/>
+	<SubTexture name="Yuumi Up0000" x="2874" y="526" width="473" height="663" frameX="-2" frameY="0" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0001" x="2874" y="526" width="473" height="663" frameX="-2" frameY="0" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0002" x="3347" y="526" width="484" height="660" frameX="0" frameY="-3" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0003" x="3347" y="526" width="484" height="660" frameX="0" frameY="-3" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0004" x="0" y="1189" width="447" height="523" frameX="-39" frameY="-140" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0005" x="0" y="1189" width="447" height="523" frameX="-39" frameY="-140" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0006" x="447" y="1189" width="445" height="523" frameX="-40" frameY="-140" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="Yuumi Up0007" x="447" y="1189" width="445" height="523" frameX="-40" frameY="-140" frameWidth="487" frameHeight="663"/>
+	<SubTexture name="yuumi Left0000" x="892" y="1189" width="539" height="547" frameX="-7" frameY="-8" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0001" x="892" y="1189" width="539" height="547" frameX="-7" frameY="-8" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0002" x="1431" y="1189" width="535" height="551" frameX="-4" frameY="-4" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0003" x="1431" y="1189" width="535" height="551" frameX="-4" frameY="-4" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0004" x="1966" y="1189" width="531" height="555" frameX="-1" frameY="0" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0005" x="1966" y="1189" width="531" height="555" frameX="-1" frameY="0" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0006" x="2497" y="1189" width="531" height="554" frameX="-1" frameY="-1" frameWidth="548" frameHeight="555"/>
+	<SubTexture name="yuumi Left0007" x="2497" y="1189" width="531" height="554" frameX="-1" frameY="-1" frameWidth="548" frameHeight="555"/>
+</TextureAtlas>
