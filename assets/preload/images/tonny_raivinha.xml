@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tonny_raivinha.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tonny Down0000" x="8" y="1006" width="436" height="380" frameX="0" frameY="-27" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0001" x="1669" y="2887" width="436" height="380" frameX="0" frameY="-27" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0002" x="2113" y="3246" width="433" height="381" frameX="-3" frameY="-26" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0003" x="2554" y="3261" width="433" height="381" frameX="-3" frameY="-26" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0004" x="828" y="2874" width="410" height="397" frameX="-28" frameY="-11" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0005" x="2995" y="3261" width="410" height="397" frameX="-28" frameY="-11" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0006" x="8" y="3253" width="393" height="406" frameX="-46" frameY="-3" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0007" x="409" y="3266" width="393" height="406" frameX="-46" frameY="-3" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0008" x="1669" y="3275" width="382" height="409" frameX="-57" frameY="-1" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0009" x="3413" y="3276" width="382" height="409" frameX="-57" frameY="-1" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0010" x="1246" y="3277" width="381" height="410" frameX="-58" frameY="0" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0011" x="1246" y="3277" width="381" height="410" frameX="-58" frameY="0" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0012" x="810" y="3279" width="381" height="410" frameX="-58" frameY="0" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny Down0013" x="810" y="3279" width="381" height="410" frameX="-58" frameY="0" frameWidth="439" frameHeight="410"/>
+	<SubTexture name="Tonny animação0000" x="2150" y="2796" width="410" height="442" frameX="-27" frameY="-13" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0001" x="1877" y="1519" width="437" height="442" frameX="0" frameY="-13" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0002" x="3663" y="1464" width="410" height="430" frameX="-28" frameY="-25" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0003" x="2976" y="2823" width="398" height="430" frameX="-40" frameY="-25" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0004" x="3492" y="2372" width="421" height="435" frameX="-17" frameY="-20" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0005" x="415" y="2823" width="405" height="435" frameX="-33" frameY="-20" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0006" x="1267" y="2817" width="394" height="452" frameX="-44" frameY="-4" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0007" x="3644" y="1912" width="421" height="452" frameX="-17" frameY="-4" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0008" x="476" y="1437" width="437" height="454" frameX="-1" frameY="-2" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0009" x="451" y="1899" width="420" height="454" frameX="-18" frameY="-2" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0010" x="1374" y="1889" width="420" height="456" frameX="-18" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0011" x="2230" y="2332" width="414" height="456" frameX="-24" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0012" x="2230" y="2332" width="414" height="456" frameX="-24" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0013" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0014" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0015" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0016" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0017" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0018" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0019" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny animação0020" x="2652" y="2332" width="413" height="456" frameX="-25" frameY="0" frameWidth="438" frameHeight="456"/>
+	<SubTexture name="Tonny left0000" x="2277" y="1077" width="460" height="434" frameX="0" frameY="-20" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0001" x="8" y="1437" width="460" height="434" frameX="0" frameY="-20" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0002" x="2745" y="1438" width="457" height="433" frameX="-4" frameY="-21" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0003" x="1412" y="1448" width="457" height="433" frameX="-4" frameY="-21" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0004" x="3210" y="1464" width="445" height="440" frameX="-17" frameY="-14" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0005" x="921" y="1519" width="445" height="440" frameX="-17" frameY="-14" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0006" x="1802" y="1969" width="420" height="450" frameX="-44" frameY="-5" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0007" x="8" y="2331" width="420" height="450" frameX="-44" frameY="-5" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0008" x="436" y="2361" width="410" height="454" frameX="-54" frameY="-2" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0009" x="436" y="2361" width="410" height="454" frameX="-54" frameY="-2" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0010" x="1318" y="2353" width="411" height="456" frameX="-53" frameY="0" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0011" x="1318" y="2353" width="411" height="456" frameX="-53" frameY="0" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0012" x="3073" y="2359" width="411" height="456" frameX="-53" frameY="0" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny left0013" x="3073" y="2359" width="411" height="456" frameX="-53" frameY="0" frameWidth="464" frameHeight="456"/>
+	<SubTexture name="Tonny right0000" x="1805" y="1006" width="464" height="434" frameX="-52" frameY="-11" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0001" x="940" y="1077" width="464" height="434" frameX="-52" frameY="-11" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0002" x="8" y="553" width="456" height="445" frameX="-52" frameY="0" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0003" x="1805" y="553" width="456" height="445" frameX="-52" frameY="0" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0004" x="2322" y="1879" width="432" height="445" frameX="-62" frameY="0" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0005" x="2762" y="1879" width="432" height="445" frameX="-62" frameY="0" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0006" x="472" y="989" width="460" height="440" frameX="-27" frameY="-5" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0007" x="2766" y="990" width="460" height="440" frameX="-27" frameY="-5" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0008" x="490" y="541" width="485" height="440" frameX="-1" frameY="-5" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0009" x="490" y="541" width="485" height="440" frameX="-1" frameY="-5" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0010" x="2801" y="543" width="486" height="439" frameX="0" frameY="-6" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0011" x="2801" y="543" width="486" height="439" frameX="0" frameY="-6" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0012" x="3295" y="543" width="486" height="439" frameX="0" frameY="-6" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny right0013" x="3295" y="543" width="486" height="439" frameX="0" frameY="-6" frameWidth="516" frameHeight="445"/>
+	<SubTexture name="Tonny up0000" x="1905" y="8" width="443" height="537" frameX="-49" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0001" x="8" y="8" width="474" height="537" frameX="-18" frameY="0" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0002" x="1447" y="8" width="450" height="529" frameX="-36" frameY="-8" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0003" x="2356" y="8" width="437" height="529" frameX="-49" frameY="-8" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0004" x="977" y="8" width="462" height="525" frameX="-17" frameY="-12" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0005" x="490" y="8" width="479" height="525" frameX="0" frameY="-12" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0006" x="2801" y="8" width="417" height="527" frameX="-54" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0007" x="3226" y="8" width="417" height="527" frameX="-54" frameY="-10" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0008" x="3651" y="8" width="404" height="525" frameX="-67" frameY="-12" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0009" x="983" y="541" width="404" height="525" frameX="-67" frameY="-12" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0010" x="1395" y="545" width="402" height="524" frameX="-69" frameY="-13" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0011" x="1395" y="545" width="402" height="524" frameX="-69" frameY="-13" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0012" x="2356" y="545" width="402" height="524" frameX="-69" frameY="-13" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny up0013" x="2356" y="545" width="402" height="524" frameX="-69" frameY="-13" frameWidth="492" frameHeight="537"/>
+	<SubTexture name="Tonny_bravo0000" x="3234" y="990" width="434" height="466" frameX="0" frameY="0" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0001" x="3234" y="990" width="434" height="466" frameX="0" frameY="0" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0002" x="879" y="1967" width="431" height="439" frameX="-3" frameY="-27" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0003" x="879" y="1967" width="431" height="439" frameX="-3" frameY="-27" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0004" x="3202" y="1912" width="434" height="439" frameX="-1" frameY="-28" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0005" x="3202" y="1912" width="434" height="439" frameX="-1" frameY="-28" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0006" x="8" y="1879" width="435" height="444" frameX="-1" frameY="-23" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0007" x="8" y="1879" width="435" height="444" frameX="-1" frameY="-23" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0008" x="854" y="2414" width="405" height="452" frameX="-31" frameY="-16" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0009" x="1737" y="2427" width="405" height="452" frameX="-31" frameY="-16" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0010" x="3492" y="2815" width="399" height="453" frameX="-37" frameY="-15" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0011" x="2568" y="2796" width="400" height="453" frameX="-36" frameY="-15" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0012" x="8" y="2789" width="399" height="456" frameX="-37" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0013" x="3676" y="990" width="400" height="456" frameX="-36" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0014" x="8" y="2789" width="399" height="456" frameX="-37" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0015" x="3676" y="990" width="400" height="456" frameX="-36" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0016" x="8" y="2789" width="399" height="456" frameX="-37" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0017" x="3676" y="990" width="400" height="456" frameX="-36" frameY="-12" frameWidth="436" frameHeight="468"/>
+	<SubTexture name="Tonny_bravo0018" x="8" y="2789" width="399" height="456" frameX="-37" frameY="-12" frameWidth="436" frameHeight="468"/>
+</TextureAtlas>
