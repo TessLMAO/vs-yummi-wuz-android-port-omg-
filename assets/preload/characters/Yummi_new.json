@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuumi Idle"
+		},
+		{
+			"offsets": [
+				-19,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuumi Left"
+		},
+		{
+			"offsets": [
+				-57,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuumi Right"
+		},
+		{
+			"offsets": [
+				-26,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuumi Up"
+		},
+		{
+			"offsets": [
+				-29,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuumi Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-57,
+				-5
+			],
+			"anim": "miss",
+			"fps": 24,
+			"name": "yuumi miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Yuumi_Sprite",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "yummi",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

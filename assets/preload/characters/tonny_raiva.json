@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				62
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tonny up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tonny left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				-20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tonny right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-10
+			],
+			"anim": "alt",
+			"fps": 24,
+			"name": "Tonny animação",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-54
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tonny Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Tonny_bravo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "tonny_raivinha",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tonny",
+	"flip_x": false,
+	"healthbar_colors": [
+		243,
+		255,
+		110
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
