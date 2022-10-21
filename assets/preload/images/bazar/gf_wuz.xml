@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_wuz.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf wuz0000" x="0" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0001" x="0" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0002" x="469" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0003" x="469" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0004" x="938" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0005" x="938" y="0" width="469" height="424"/>
+	<SubTexture name="Gf wuz0006" x="1407" y="0" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0007" x="1407" y="0" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0008" x="0" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0009" x="0" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0010" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0011" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0012" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0013" x="938" y="424" width="469" height="421" frameX="0" frameY="-3" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0014" x="938" y="424" width="469" height="421" frameX="0" frameY="-3" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0015" x="1407" y="424" width="469" height="419" frameX="0" frameY="-5" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0016" x="1407" y="424" width="469" height="419" frameX="0" frameY="-5" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0017" x="0" y="846" width="469" height="418" frameX="0" frameY="-6" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0018" x="0" y="846" width="469" height="418" frameX="0" frameY="-6" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0019" x="469" y="846" width="469" height="420" frameX="0" frameY="-4" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0020" x="469" y="846" width="469" height="420" frameX="0" frameY="-4" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0021" x="938" y="846" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0022" x="938" y="846" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0023" x="1407" y="846" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0024" x="1407" y="846" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0025" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0026" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0027" x="469" y="424" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0028" x="0" y="1268" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+	<SubTexture name="Gf wuz0029" x="0" y="1268" width="469" height="422" frameX="0" frameY="-2" frameWidth="469" frameHeight="424"/>
+</TextureAtlas>
