@@ -1,0 +1,9 @@
+{
+	"directory": "bazaruwu",
+	"defaultZoom": 0.7,
+	"isPixelStage": false,
+
+	"boyfriend": [240, 1310],
+	"girlfriend": [-240, 1330],
+	"opponent": [-310, 1310]
+}
