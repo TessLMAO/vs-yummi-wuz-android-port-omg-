@@ -1,0 +1,50 @@
+{
+	"storyName": "A Cute Trans Girl =)",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "yummi",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Yuutie",
+			"yummi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Harmless",
+			"yummi",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Checkmate",
+			"tonny",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Yummi 1"
+}
